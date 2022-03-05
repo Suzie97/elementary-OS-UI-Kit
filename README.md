@@ -4,7 +4,7 @@
   <img src="https://github.com/Suzie97/elementary-OS-UI-Kit/blob/main/Banner.png" alt="Banner" />
 </p>
 
-# elementary-OS-UI-Kit
+# elementary OS UI Kit
 Design Library featuring components to help in designing applications for elementary OS.
 
 This library has elementary colour styles, text styles, icons and other commonly used native UI components.
