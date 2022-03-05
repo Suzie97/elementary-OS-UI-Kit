@@ -1,4 +1,8 @@
+[![Ethical Design](https://img.shields.io/badge/Ethical_Design-_▲_❤_-blue.svg)](https://ind.ie/ethical-design)
 
+<p align="center">
+  <img src="https://github.com/Suzie97/elementary-OS-UI-Kit/blob/main/Banner.png" alt="Banner" />
+</p>
 
 # elementary-OS-UI-Kit
 Design Library featuring components to help in designing applications for elementary OS.
